@@ -1,0 +1,6 @@
+{
+  "name": "Sarmaya Ownership Marketplace (Flutter)",
+  "description": "Business Investment & Real-Product Ownership Marketplace built with Flutter, Dart, and Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

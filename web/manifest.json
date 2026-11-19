@@ -1,0 +1,11 @@
+{
+  "name": "Sarmaya Market",
+  "short_name": "Sarmaya",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0B1F3A",
+  "theme_color": "#0B1F3A",
+  "description": "Real-Product Ownership & Shared Commerce Marketplace.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
